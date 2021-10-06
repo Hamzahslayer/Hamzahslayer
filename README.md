@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hamzahslayer
-- 👀 I’m interested in indonesia
+- 👀 I’m interested in japan
 - 🌱 i'm curently learning python and bash
 
 <!---
