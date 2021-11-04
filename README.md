@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hamzahslayer
+- 👋 Hi, I’m @Hamzahyahya
 - 👀 I’m interested in indonesia
 - 🌱 i'm curently learning python and bash
 
