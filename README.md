@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hamzahyahya
-- 👀 I’m interested in indonesia
+- 👀 I’m interested in html
 - 🌱 i'm curently learning python and bash
 - email me: hamzahamzan108@gmail.com
 <!---
